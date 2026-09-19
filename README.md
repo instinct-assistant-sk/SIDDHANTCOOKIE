@@ -31,11 +31,11 @@ kinda obsessive about everything i build
 <p align="center"><sub>▶ <a href="https://github.com/user-attachments/assets/ca34406c-c111-4bfc-992c-5886b480b1a3">the way of the ronin soundtrack</a> - tap to play with sound</sub></p>
 <p align="center">
 <sub>four paths, four kinds of work - every merged pull request lives here.<br>
-<b>102 merged prs</b> and counting; the quest renews itself with each new merge.</sub><br><br>
+<b>103 merged prs</b> and counting; the quest renews itself with each new merge.</sub><br><br>
 <a href="#user-content-xp-mind"><b>心 the way of the mind</b> · 4</a> &nbsp;·&nbsp;
 <a href="#user-content-xp-blade"><b>刃 the way of the blade</b> · 5</a> &nbsp;·&nbsp;
 <a href="#user-content-xp-chain"><b>鎖 the way of the chain</b> · 69</a> &nbsp;·&nbsp;
-<a href="#user-content-xp-scroll"><b>巻 the way of the scroll</b> · 24</a><br>
+<a href="#user-content-xp-scroll"><b>巻 the way of the scroll</b> · 25</a><br>
 </p>
 </details>
 
@@ -186,12 +186,13 @@ kinda obsessive about everything i build
 </details>
 
 <details name="xp">
-<summary><b>巻 the way of the scroll</b> - the formstr suite, shipped · <b>24 merged prs</b></summary>
+<summary><b>巻 the way of the scroll</b> - the formstr suite, shipped · <b>25 merged prs</b></summary>
 <a id="xp-scroll"></a>
 <p align="center"><img src="assets/xp_scroll.gif" width="560"></p>
 <p align="center"><b>formstr, aossie &amp; community</b></p>
 <p align="center">
-<sub><b>formstr-hq/formstr-drive</b> · 7 merged</sub><br>
+<sub><b>formstr-hq/formstr-drive</b> · 8 merged</sub><br>
+<sub><a href="https://github.com/formstr-hq/formstr-drive/pull/63"><b>#63</b></a> Multi-server uploads, honest failure reporting, background Android uploads · sep 19, 2026</sub><br>
 <sub><a href="https://github.com/formstr-hq/formstr-drive/pull/62"><b>#62</b></a> Fix drive-key mint hazard: read legacy format, never mint over an existing key · sep 15, 2026</sub><br>
 <sub><a href="https://github.com/formstr-hq/formstr-drive/pull/61"><b>#61</b></a> Rewrites file preview generation to use gifenc for animated GIF thumbnails instead of @ffmpeg/, extracts the fetch/cache logic from FileCard into… · sep 15, 2026</sub><br>
 <sub><a href="https://github.com/formstr-hq/formstr-drive/pull/57"><b>#57</b></a> Download fixes Replaced the old useDownloader hook with a proper streaming pipeline (swStreamDownload.ts + public/sw.js) so large files write… · jul 21, 2026</sub><br>
